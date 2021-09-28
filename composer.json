@@ -1,0 +1,7 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.11",
+        "gregwar/image": "^2.1",
+        "gregwar/cache": "^1.0"
+    }
+}
